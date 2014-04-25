@@ -29,6 +29,7 @@ group :development do
   gem 'spring'
   gem 'spring-commands-rspec'
   gem 'rspec-rails'
+  gem 'guard-rspec'
 end
 
 # Use ActiveModel has_secure_password
