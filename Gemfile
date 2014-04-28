@@ -24,11 +24,12 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'slim-rails'
 gem 'bootstrap-sass', '~> 3.1.1'
 
-group :development do
+group :test, :development do
   gem 'spring'
   gem 'spring-commands-rspec'
   gem 'rspec-rails'
   gem 'guard-rspec'
+  gem 'factory_girl_rails'
 end
 
 # Use ActiveModel has_secure_password
