@@ -1,5 +1,6 @@
 == README
 {<img src="https://travis-ci.org/dtan4/tobanhyo.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/dtan4/tobanhyo]
+{<img src="https://coveralls.io/repos/dtan4/tobanhyo/badge.png" alt="Coverage Status" />}[https://coveralls.io/r/dtan4/tobanhyo]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
